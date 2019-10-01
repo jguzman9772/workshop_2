@@ -1,6 +1,6 @@
 ---
-title: "git_01"
-author: "Math_116"
+title: "Work shop 2"
+author: "Jose Guzman"
 date: "Fall semester"
 output: html_document
 ---
@@ -24,3 +24,5 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+It's so dark right now, I can't see any light around me.  
+That's because the light is coming from you. You can't see it but everyone else can.”  
